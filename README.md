@@ -48,6 +48,6 @@ Strings	    :name.upper(), name.isalpha(), " ".join(list)
 
 4.Logic Inversion: The not operator is a simple yet effective way to flip Boolean logic, which is useful in complex control flow statements.
 
-# Link to The entire notebook
+# Link to the entire notebook
 https://colab.research.google.com/drive/1hJgKmV8r3Jci0r2NbyB-MZzDzQzHB_L0?usp=sharing
 
