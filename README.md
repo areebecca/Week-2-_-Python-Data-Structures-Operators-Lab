@@ -27,6 +27,7 @@ Bitwise	    :x & y, x ^ y, x << 2, ~x
 
 Strings	    :name.upper(), name.isalpha(), " ".join(list)
 # Screenshots of Results
+
 <img width="1833" height="878" alt="Screenshot 2026-02-25 173902" src="https://github.com/user-attachments/assets/ca22bb98-1f83-40bb-912b-1c6e6e46cbbc" />
 <img width="1841" height="726" alt="Screenshot 2026-02-25 173919" src="https://github.com/user-attachments/assets/928b9427-333f-48f9-ac73-e23173c5fc85" />
 <img width="1843" height="506" alt="Screenshot 2026-02-25 173952" src="https://github.com/user-attachments/assets/c16c5379-27b9-43fb-a96a-2c6e8addb1d7" />
